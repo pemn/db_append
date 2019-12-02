@@ -5,6 +5,9 @@ append and/or convert multiple files in supported formats
 This simple script leverages the multiple input/output filters available in the custom _gui (github.com/pemn/usage-gui) library to convert data between formats or just concatenate multipe files in a single output.  
 Not all formats are valid for output or for concatenation.
 
+## Screenshot
+![screenshot](https://github.com/pemn/db_append/blob/master/assets/screenshot1.png)
+
 ## How to use
 The simplest mode is a single input file for conversion.
 Another simple mode is multiple simple files (like csv) and a single output file.
