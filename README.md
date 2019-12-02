@@ -2,8 +2,9 @@
 This simple script leverages the multiple input/output filters available in the custom _gui (github.com/pemn/usage-gui) library to convert data between formats or just concatenate multipe files in a single output.  
 Not all formats are valid for output or for concatenation.
 
-## Screenshot
-![screenshot1](https://github.com/pemn/db_append/blob/master/screenshot1.png)
+## Screenshot2
+![screenshot1](https://github.com/pemn/db_append/blob/master/screenshot1.png)  
+![screenshot2](https://github.com/pemn/db_append/blob/master/screenshot2.png)
 
 ## How to use
 The simplest mode is a single input file for conversion.  
