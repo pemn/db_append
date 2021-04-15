@@ -3,8 +3,8 @@ This simple script leverages the multiple input/output filters available in the 
 Not all formats are valid for output or for concatenation.
 
 ## Screenshot2
-![screenshot1](https://github.com/pemn/db_append/blob/master/screenshot1.png)  
-![screenshot2](https://github.com/pemn/db_append/blob/master/screenshot2.png)
+![screenshot1](screenshot1.png?raw=true)  
+![screenshot2](screenshot2.png?raw=true)
 
 ## How to use
 The simplest mode is a single input file for conversion.  
